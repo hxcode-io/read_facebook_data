@@ -170,6 +170,7 @@ public class Parse {
         textDecode = textDecode.replaceAll("\u00e2\u0080\u009d", "\"");
         textDecode = textDecode.replaceAll("\u00e2\u0080\u009c", "\"");
         textDecode = textDecode.replaceAll("\u00e2\u0080\u009e", "\"");
+        textDecode = textDecode.replaceAll("\u00e2\u0082\u00ac", "€");
         return textDecode;
     }
 

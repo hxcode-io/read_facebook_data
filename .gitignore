@@ -1,1 +1,6 @@
 /src/main/resources/posts/album/
+/src/main/resources/posts/media/
+/out/
+/.idea/
+/build/
+/.gradle/
